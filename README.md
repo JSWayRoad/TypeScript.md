@@ -7,3 +7,6 @@
 ### Типы в TypeScript
 
 Boolean, Number, String, Null, Undefined, Void(нужен для опр отсутсвющих типов)
+
+
+Typescritp  add types by default for coponents so  we don't need add type for component
